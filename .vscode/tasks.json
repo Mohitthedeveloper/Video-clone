@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "devStart",
+			"path": "clone",
+			"problemMatcher": [],
+			"label": "npm: devStart - clone",
+			"detail": "nodemon server.js"
+		}
+	]
+}
